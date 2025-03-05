@@ -1,4 +1,3 @@
-
 # Ploom.co.uk Recruitment Task  
 
 ## Overview  
@@ -42,6 +41,3 @@ This project contains automated tests for the **Ploom** website, ensuring core f
 ## Notes  
 - Tests are structured to allow easy expansion to additional country-specific websites.  
 - The framework ensures stability and reliability when navigating, adding/removing products, and checking page integrity.  
-
----  
-Let me know if you need any modifications! 🚀
